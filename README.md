@@ -1,2 +1,4 @@
 # Google-Home-Tutorial
-A tutorial to help you create your first Google Home Application
+This tutorial will help users create their first Google Home Application. The tutorial uses DialogFlow, a user interface which allows users to create Applications (known as "Actions") which can be deployed on the Google Home, Messenger Chatbots, Alexa, etc. The web software provides a good introduction into Voice Application design and machine training without getting into complex code.
+
+https://www.slideshare.net/secret/gV3kS50FKqLKD7
